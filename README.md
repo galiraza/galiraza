@@ -1,5 +1,5 @@
 <h1 align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Ali+Raza+;Finance+%26+Marketing+Data+Analyst" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Ali+Raza+;Finance+%26+Marketing+Data+Analyst" alt="Typing SVG" />
 </h1>
 <h3 align="center">Marketing & Finance Data Analyst @Fiverr | Google Data Analytics & Business Intelligence Certified | Content Creator | Prompt Engineer</h3>
 
